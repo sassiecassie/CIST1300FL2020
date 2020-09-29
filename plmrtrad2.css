@@ -1,0 +1,109 @@
+body {
+    background-image: url('myhouse.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.main1 {
+    color: white;
+    font-size: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 0px;
+}
+.main2 {
+    color: white;
+    display: inline;
+    font-size: 20px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: left;
+    vertical-align: sub;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.main4 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: block;
+    text-align: right;
+    margin-right: 50px;
+}
+.main3 {
+   font-size: 20px;
+    padding: 10px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    display: inline-block;
+    color: #cc0000;
+    font-weight: bold;
+    margin-top: 0px;
+}
+h1 {
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.svc2 {
+   font-size: 20px;
+    padding: 10px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+    color: white;
+}
+img.middle {
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+a.main {
+    color: #b30000;
+    text-align: center;
+    margin-top: 0px;
+}
+div.textbox {
+    border: 3px solid black;
+    background-color: rgba(0,0,0,0.6);
+    float: left;
+    margin-left: 75px;
+    line-height: 1.6;
+    width: 300px;
+    padding-bottom: 20px;
+}
+table {
+    border: 2px solid black;
+    float: right;
+    display: inline;
+    background-color: #4d4d4d;
+}
+td {
+    border: 2px solid black;
+}
+a.contact {
+    background-color: #b30000;
+    color: white;
+    text-decoration: underline;
+    border: 0.5px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 95px;
+    font-size: 20px;
+}
+div.table {
+    float: right;
+    display: inline;
+    padding-right: 75px;
+}
+h1.other {
+    text-align: center;
+}
+li.other {
+    text-align: left;
+    font-size: 20px;
+}
