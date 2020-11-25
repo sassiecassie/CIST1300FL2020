@@ -1,0 +1,53 @@
+body {
+    background-image: url(worldmap.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+#collection {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid black;
+}
+th, td {
+    padding: 8px;
+}
+label {
+    font-size: 25px;
+}
+button {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+input {
+    font-size: 18px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+#tableContent, #ascendingcountry, #ascendingcapital {  
+   display: inline-block;
+    width: 33%;
+    float: left;
+    font-size: 19px;
+}
+table.generated {
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 90%;
+}
+th {
+    border-bottom: 1px solid black;
+}
